@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 프론트엔드 개발자 이시훈입니다. 
+## 프론트엔드 개발자 이시훈입니다.
 ### 🔭 About
 Tech Blog: [sihun.dev](https://sihun.dev/blog)
 
