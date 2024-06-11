@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## 프론트엔드 개발자 이시훈입니다. 
 ### 🔭 About
-Tech Blog: [sihun.dev](sihun.dev)
+Tech Blog: [sihun.dev](https://sihun.dev/blog)
 
 ### ⚡️ Tech Stack   
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
